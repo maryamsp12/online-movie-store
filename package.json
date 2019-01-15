@@ -2,7 +2,7 @@
   "name": "vidly",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://maryamsp12.github.io/online-movie-store",
+  "homepage": "http://maryamsp12.github.io/online-store",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "font-awesome": "^4.7.0",
