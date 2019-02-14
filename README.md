@@ -1,2 +1,2 @@
 
-Preview: https://maryamsp12.github.io/online-movie-store/
+Preview: https://maryamsp12.github.io/movies
